@@ -1,6 +1,5 @@
 #Open Source
 
-Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
 ## 1. Linux uppsetning
 Ég náði í virtual machine og gaf henni helminginn af minninu. Náði i linux mint image-ið til að keyra í VM.
