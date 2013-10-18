@@ -3,23 +3,36 @@
 Hér á að koma listi af hópmeðlimum (sjá Markdown leiðbeiningar um það hvernig búa á til lista).
 
 ## 1. Linux uppsetning
-
-Lýsið hvernig gekk að setja upp Linux (Ubuntu eða aðra útgáfu). Bætið inn í þetta skjal ljósmynd af tölvunni að ræsa Linux (skoðið hvernig myndir eru settar inn í Markdown skjöl).
+Ég náði í virtual machine og gaf henni helminginn af minninu. Náði i linux mint image-ið til að keyra í VM.
+þetta gekk ágætlega og lítið vesen, en kannski leiðindi þar sem ég notaði hitt stýrikerfið líka og það var drullu-slow.
+![alt text](http://i.imgur.com/13v34Z6.png)
 
 ## 2. Uppsetning á vim && git
 
-Lýsið hvernig gekk að setja upp þessi tól.
+Sló inn skipanirnar sem lýst var á myschool og allt var í blóma bara.
 
 ## 3. Unnið með Git (1. hluti)
 
-Lýsið hvernig gekk að forka NIM verkefnið, og hvernig gekk að láta hópmeðlimi gera hver sína breytingu á kóðanum.
-
-Látið fylgja tengil á ykkar útgáfu af verkefninu (Það á að sjálfsögðu að vera hægt að smella á tengilinn og fara þá beint í verkefnið ykkar!)
+Byrjuðum tveir saman í hóp en vorum búnir að vera í veseni með þetta. Þar sem við sáum aldrei breytingarnar hjá hvort öðru í verkefninu. Við ákvöðum að vinna þetta því í sitthvoru lagi.
+https://github.com/Freysi21/INTOPrufa.git
 
 ## 4. Uppsettur hugbúnaður
 
-Hér á að koma listi yfir opinn hugbúnað sem þið eruð með á vélunum nú þegar (sjá verkefnislýsingu).
+1. FIREFOX
+http://www.mozilla.org/MPL/  
+Mozilla Public License Version 2.0
+
+2. GIMP
+http://www.gimp.org/about/
+GNU General Public License
+
+3. Blender
+http://www.blender.org/BL/
+Blender License
 
 ## 5. Unnið með Git (2. hluti)
 
-Hér þarf ekkert að gera annað en að setja niðurstöður úr 4. fyrstu liðunum inn í þetta skjal.
+1. Gekk.
+2. Gekk.
+3. Gekk hálfpartinn.
+4. Listi er.
